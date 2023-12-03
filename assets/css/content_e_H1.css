@@ -1,0 +1,11 @@
+.content {
+    padding: 1rem;
+}
+
+.content_titulo{
+    margin: 1rem 0;
+    text-align: center;
+    font-size: 3.5rem;
+    color: #232323; 
+    animation: neon 3s alternate infinite ease-in-out; 
+}

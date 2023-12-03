@@ -1,0 +1,23 @@
+.footer{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    margin: 7rem 0 0 0;
+}
+
+.footer_texto{
+   color:#232323;
+   font-size: 1.5rem;
+   font-weight: 700;
+   padding: 0 0.7rem 0 0;
+
+   @media screen  and (min-width: 250px) and (max-width: 450px){
+       font-size: 1rem;
+   }
+}
+
+
+.sub-texto{
+    text-decoration: underline;
+    animation: neon 2s alternate infinite ease-in-out;
+}

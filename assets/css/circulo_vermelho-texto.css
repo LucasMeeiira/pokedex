@@ -1,0 +1,12 @@
+.circulo_vermelho-texto{
+    color: #3c3c3c;
+    font-weight:900;
+    font-size: 1.5rem;
+    padding:  0 1.3rem;
+}
+
+.texto:active{
+    color: #797979;
+    font-size: 1.2rem ;
+    font-weight: 900;
+}

@@ -1,0 +1,14 @@
+.circulo_vermelho-botao{
+    height: 2rem;
+    width: 4.5rem;
+    border-radius: 3rem;
+    margin: auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 5px solid #232323;
+    background: #e2e1e2;
+    color: #3c3c3c;
+}

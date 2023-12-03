@@ -1,0 +1,15 @@
+.tela_preta-texto{
+    width: 98%;
+    height: 85%;
+    border: 3px solid #3c3c3c;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 1rem;
+    margin: 0.5rem;
+    font-weight: 700;
+    padding-top: 0.8rem;
+    text-transform: capitalize;
+
+    color:#3c3c3c;
+    background-color: #c3c3c3;    
+}

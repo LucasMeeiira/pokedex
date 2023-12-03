@@ -1,0 +1,34 @@
+.tela{
+    display: flex;
+    
+    height: 18rem;
+    width: 17rem;
+    margin: auto;
+    border-radius: 0.3rem;
+    
+    border: solid 2px #000;
+    background: #3c3c3c;
+}
+
+.tela_preta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 95%;
+    width: 95%;
+    margin: 0 auto ;
+    border-radius: 0.3rem;
+    
+    border: solid 3px #797979;
+    background :linear-gradient(to bottom, #fff, #6ab9ee, #6ad857 )
+    
+}
+
+
+.tela_preta-conteiner{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    width: 98%
+}

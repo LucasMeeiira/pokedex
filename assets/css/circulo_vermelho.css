@@ -1,0 +1,12 @@
+.circulo_vermelho{
+    display: flex;
+    align-items: center;
+
+    height: 15.5rem;
+    width: 18rem;
+    margin: 0.5rem auto;
+    border-radius: 10rem;
+
+    border: 8px solid #232323;
+    background: #dc0a2d;
+}

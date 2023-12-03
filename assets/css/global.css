@@ -1,0 +1,42 @@
+@import url("/assets/css/content_e_H1.css");
+@import url("/assets/css/pokedex.css");
+@import url("/assets/css/tela.css");
+@import url("/assets/css/img.css");
+@import url("/assets/css/tela");
+@import url("/assets/css/tela_texto.css");
+@import url("/assets/css/footer.css");
+@import url("/assets/css/circulo_vermelho.css");
+@import url("/assets/css/circulo_branco.css");
+@import url("/assets/css/botoes.css");
+@import url("/assets/css/circulo_vermelho-texto.css");
+
+
+
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+ 
+body{
+    margin:4rem auto ; 
+    width: 90vw;
+    height: 90vh;
+    background :linear-gradient(to bottom, #585858, #c0c0c0, #585858 ) ;
+
+    @media screen  and (min-width: 250px) and (max-width: 450px){
+        height:110vh ;
+        margin-right: 2rem;
+       
+    }
+}
+
+
+
+
+
+
+
+
+
