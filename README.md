@@ -10,6 +10,11 @@ No total eu deixei uma lista de 150 pokemons, onde você pode navegar por esta l
 Desta forma, quando você passa pelos pokemons, a imagem muda para o pokemon seguinte, assim como o seu nome também. </h3>
 
 
+![sitePokemon](https://github.com/LucasMeeiira/pokedex/assets/114417026/3351fbda-7fb5-406f-8ba3-0bde6e415081)
+
+
+
+
 <h3>Este é um projeto do bootcamp que estou fazendo na plataforma da DIO, eu resolvi fazer a página da pokedex do meu jeito e da forma que eu achava melhor.
 Foi um aprendizado e tanto, eu não quis "colar" a página feita pelo instutor, decidi fazer as aulas e a página do meu jeito.
 Foram um total de 5 dias de muito estudo, vídeos, artigos que foram lidos e assistidos.</h3>
